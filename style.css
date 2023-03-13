@@ -198,7 +198,7 @@ a {
       rgba(212, 163, 115, 0.1),
       rgba(247, 141, 36, 0.6)
     ),
-    url(/images/freedom.JPG) center/cover no-repeat border-box;
+    url(images/freedom.jpg) center/cover no-repeat border-box;
   height: 100%;
   display: flex;
   align-items: center;
